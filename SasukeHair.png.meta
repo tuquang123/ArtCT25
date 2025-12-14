@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9b0e7013f3e42e54ca2ea97ecb479cbe
+guid: c1cc2dd275a56b54ba3d1af6f8ceddd8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8299708234586132818
-    second: 995_0
+      213: -1283211923427779501
+    second: SasukeHair_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 995_0
+      name: SasukeHair_0
       rect:
         serializedVersion: 2
-        x: 27
+        x: 0
         y: 3
-        width: 78
-        height: 157
+        width: 63
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eaeeb1a955381dc80800000000000000
-      internalID: -8299708234586132818
+      spriteID: 35c9a8ced8d113ee0800000000000000
+      internalID: -1283211923427779501
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      995_0: -8299708234586132818
+      SasukeHair_0: -1283211923427779501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
